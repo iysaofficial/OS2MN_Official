@@ -40,7 +40,7 @@ const FooterComp = () =>{
                                 <ul className="list-unstyled">
                                     <li className="mt-md-3 mt-4">Link</li>
                                     <li><Link href="/" className='footer-link'>Utama</Link></li>
-                                    <li><Link href="https://drive.google.com/file/d/1aDnrz6M5hoOOp_-bTYb5NeLUWjzOLTh0/view?usp=drive_link" target='_blank' className='footer-link'>Buku Panduan</Link></li>
+                                    <li><Link href="https://drive.google.com/file/d/1OAIzYsG-Kx3b2U0Gu_uKOqUynm0WwP_l/view?usp=sharing" target='_blank' className='footer-link'>Buku Panduan</Link></li>
                                     <li><Link href="/contact" className='footer-link'>Hubungi Kami</Link></li>
                                 </ul>
                             </div>
