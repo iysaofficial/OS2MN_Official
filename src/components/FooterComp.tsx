@@ -8,7 +8,7 @@ const FooterComp = () =>{
         const scriptURL =
         "https://script.google.com/macros/s/AKfycbwfw1dAhzyY6p6crVCCuoEXzb_E7hBOi8cYuIBu_-JZzz2a25h-tCvT6Xd3dUH9Mx2fQA/exec";
 
-        const form = document.forms.namedItem("regist-form");
+        const form = document.forms.namedItem("footer-newsletter");
 
         if (form) {
         const handleSubmit = async (e: Event) => {
@@ -45,7 +45,7 @@ const FooterComp = () =>{
                         <div className="card-body text-center">
                             <h2><b>Subscribe to our newsletter</b></h2>
                             <p className="pl-0 ml-0 mb-5">Subscribe to our newsletter to receive our latest news and exclusive deals.</p>
-                            <form action="" method="POST" name="regist-form">
+                            <form action="" method="POST" name="footer-newsletter">
                             <div className="row text-center justify-content-center">
                                 <div className="col-auto">
                                     <div className="input-group-lg input-group mb-3">   
