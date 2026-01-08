@@ -12,7 +12,7 @@ const LogoComp = () =>{
                     <li>
                         <img src="/assets/images/logo/LogoIYSA.webp" alt=""/>
                     </li>
-                    <li>
+                    {/* <li>
                         <img src="/assets/images/logo/LOGOAKTUARIA.png" alt=""/>
                     </li>
                     <li>
@@ -20,7 +20,7 @@ const LogoComp = () =>{
                     </li>
                     <li>
                         <img src="/assets/images/logo/PTIQ.png" alt=""/>
-                    </li>
+                    </li> */}
                 </ul>
             </div>
             <br/>
