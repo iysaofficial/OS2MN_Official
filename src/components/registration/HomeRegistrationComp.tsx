@@ -11,7 +11,7 @@ const HomeRegistrationComp = () =>{
             </div>
             </div>
             <div className="registration-links">
-            <Link href="/registration/national/national-offline" className="registration-link">Kompetisi Offline</Link>
+            {/* <Link href="/registration/national/national-offline" className="registration-link">Kompetisi Offline</Link> */}
             <Link href="/registration/national/national-online" className="registration-link">Kompetisi Online</Link>
             </div>
         </section>
