@@ -99,7 +99,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'><Link href="/">Utama</Link></li>
                     <li className='menu-item'><Link href="/about">Tentang</Link></li>
                     <li className='menu-item'>
-                        <Link href="https://drive.google.com/file/d/1YR8pd9vc7v5WrAXtG1TWDx2Ma1qr045C/view?usp=sharing" 
+                        <Link href="https://drive.google.com/file/d/1SspsOJI1QK5g9xyd7QYdNQLTjwIWLE8-/view?usp=sharing" 
                             target='_blank'
                             rel="noopener noreferrer">
                             Buku Panduan

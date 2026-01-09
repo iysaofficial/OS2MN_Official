@@ -73,7 +73,7 @@ const FooterComp = () =>{
                                 <ul className="list-unstyled">
                                     <li className="mt-md-3 mt-4">Link</li>
                                     <li><Link href="/" className='footer-link'>Utama</Link></li>
-                                    <li><Link href="https://drive.google.com/file/d/1YR8pd9vc7v5WrAXtG1TWDx2Ma1qr045C/view?usp=sharing" target='_blank' className='footer-link'>Buku Panduan</Link></li>
+                                    <li><Link href="https://drive.google.com/file/d/1SspsOJI1QK5g9xyd7QYdNQLTjwIWLE8-/view?usp=sharing" target='_blank' className='footer-link'>Buku Panduan</Link></li>
                                     <li><Link href="/contact" className='footer-link'>Hubungi Kami</Link></li>
                                 </ul>
                             </div>

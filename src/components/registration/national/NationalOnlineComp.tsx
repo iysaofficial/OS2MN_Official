@@ -359,8 +359,9 @@ const DataSekolahSection: React.FC = () => (
         <label className="field-label">Jenjang Pendidikan</label>
         <select name="JENJANG_PENDIDIKAN" className="select-field" required>
           <option value="">--Pilih Jenjang Pendidikan Anda--</option>
-          <option value="Sekolah Menengah Atas">Sekolah Menengah Atas</option>
-          <option value="Universitas">Universitas</option>
+          <option value="MI/MIN">MI/MIN Sederajat (hanya untuk kategori MATEMATIKA)</option>
+          <option value="MTs/MTsN">MTs/MTsN Sederajat (hanya untuk kategori MATEMATIKA)</option>
+          <option value="MA/MAN">MA/MAN Sederajat</option>
         </select>
       </div>
 
