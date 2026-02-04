@@ -91,7 +91,7 @@ const FooterComp = () =>{
                                 <ul className="list-unstyled">
                                     <li className="mt-md-3 mt-4">Office</li>
                                     <li><Link href="mailto:iysa.olympiad@gmail.com" className='footer-link'>iysa.olympiad@gmail.com</Link> </li>
-                                    <li><Link href="https://wa.me/+6283870026877" className='footer-link'>+6283870026877</Link></li>
+                                    <li><Link href="https://wa.me/+6288213248890" className='footer-link'>+6288213248890</Link></li>
                                     <li><Link href="https://goo.gl/maps/9x18coXGCmSscKec6" className='footer-link'>Jl. Kemang, Pasir Putih, Kecamatan. <br />Sawangan, Kota Depok, Jawa Barat 16519</Link></li>
                                 </ul>
                             </div>
