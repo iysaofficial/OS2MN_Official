@@ -11,7 +11,7 @@ const HeroComp = () =>{
                 </p>
                 <br />
                 <br />
-                <Link href="/registration" className="registration-button">Pendaftaran</Link>
+                <span className="registration-button registration-button--disabled">PENDAFTARAN DITUTUP</span>
                 <br />
                 <br />
                 <br />
