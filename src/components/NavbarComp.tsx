@@ -123,6 +123,7 @@ const NavbarComp = () =>{
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1oZ0Hk1MTSYd7QAb7UqLC-WZ0I6XE-_zz/view?usp=sharing" target='_blank'>Daftar Pemenang 2024</a></li>
                         </ul> */}
                     </li>
+                    
                     {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Kurasi <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>

@@ -4,7 +4,7 @@ const AfterEventComp = () =>{
         <section className="after-event-section" id="after-event">
             <div className="after-event-container">
                 <div className="after-event-heading">
-                    <h1 className="section-header">After Event OS2MN 2025</h1>
+                    <h1 className="section-header">After Event OS2MN 2026</h1>
                 </div>
                 <div className="after-event-row">
 
