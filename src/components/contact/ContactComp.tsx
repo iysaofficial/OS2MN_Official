@@ -82,7 +82,7 @@ const ContactComp = () =>{
                             </div>
                             <div className="information">
                                 <img src="/assets/images/icon/phone.png" className="contact-icon" alt="" />
-                                <Link href='https://wa.me/+6281770914129' target='_blank'>+62817-7091-4129</Link>
+                                <Link href='https://wa.me/+6281770914129' target='_blank'>+62 882-1324-8890</Link>
                             </div>
                         </div>
 
