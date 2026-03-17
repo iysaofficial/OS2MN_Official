@@ -9,7 +9,7 @@ const AfterEventComp = () =>{
                 <div className="after-event-row">
 
                     <div className="tes-vidio">
-                        <iframe className="mt-5"  width="100%" height="315" src="https://www.youtube.com/embed/EKgYlyUOcyo?si=ldHza5XqJl1-3NyB" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                        <iframe className="mt-5"  width="100%" height="315" src="https://www.youtube.com/embed/G7X5xB2oCY0?si=oDcT2APHeOYv13ft" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                     </div>
 
                     <div className="tes-p">

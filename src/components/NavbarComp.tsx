@@ -109,7 +109,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <Link href="/contact">Kontak</Link>
                     </li>
-                    {/* <li className='menu-item'><a href="https://drive.google.com/file/d/1jkpeD9EN2kWu059MDmriUHgqil_P31xT/view" target='_blank'>Press Release</a></li> */}
+                    <li className='menu-item'><a href="https://docs.google.com/document/d/1SyLYndAkOOwuH8xP32grOMFjupHUmZ8qjDP2qclU800/edit?usp=sharing" target='_blank'>Press Release</a></li>
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
                     {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Liputan Media <i className='fas fa-angle-down'></i></a>
@@ -135,6 +135,13 @@ const NavbarComp = () =>{
                             Sertifikat Supervisor <i className='fas fa-angle-down'></i>
                         </Link>
                         <ul className='sub-menu'>
+                            <li className='sub-item'>
+                                <Link href="https://drive.google.com/drive/folders/1Dnoi9Gu1TPiWAg2FEhK-qJhd_z4sYNUt?usp=drive_link" 
+                                    target='_blank' 
+                                    rel="noopener noreferrer">
+                                        Sertifikat Supervisor 2026
+                                </Link>
+                            </li>
                             <li className='sub-item'>
                                 <Link href="https://drive.google.com/drive/folders/1FoEVkNCajucgsWokdI9fsIMW8M5xlJlR?usp=sharing" 
                                     target='_blank' 
